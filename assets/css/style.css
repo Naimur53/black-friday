@@ -13,14 +13,14 @@ section{
 }
 section h2{
     position: relative;
-    font-size: 20vh;
+    font-size: 10rem;
     text-align: center;
     line-height: 0.75em;
     text-transform: uppercase;
     font-weight: 800; 
 }
 section h2 span{
-    font-size: 18.2vh;
+    font-size: 10rem;
     color: transparent;
     -webkit-text-stroke: 0.3vw #000;
 }
